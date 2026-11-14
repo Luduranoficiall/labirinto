@@ -1,0 +1,6 @@
+{
+  "name": "32 Even Smaller Mazes",
+  "description": "An interactive puzzle game featuring 32 micro-mazes across 4 difficulty tiers (Fácil, Médio, Difícil, Hard Master), each with unique spatial and physical mechanics, inspired by FLEB's 20 Small Mazes and Godot Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
